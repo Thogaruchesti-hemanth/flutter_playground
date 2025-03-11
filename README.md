@@ -6,7 +6,7 @@ A collection of beginner-friendly Flutter projects exploring essential widgets, 
 
 | Project Name | Preview | Description | Status |
 |-------------|---------|-------------|--------|
-| [📱 Profile Page](projects/profile_page) | <img src="https://github.com/Thogaruchesti-hemanth/flutter_playground/blob/ui_profile_screen/assets/images/outputs/profile_screen_output.png" width="100px"> | A simple and clean profile screen UI. | ✅ Completed |
+| 📱 Profile Page | <img src="https://github.com/Thogaruchesti-hemanth/flutter_playground/blob/ui_profile_screen/assets/images/outputs/profile_screen_output.png" width="100px"> | A simple and clean profile screen UI. | ✅ Completed |
 | 📝 Notes App | (Coming Soon) | A basic notes-taking app with SQLite storage. | 🔄 In Progress |
 | 🎨 UI Experiments | (Coming Soon) | Various UI designs & animations. | ⏳ Planned |
 
