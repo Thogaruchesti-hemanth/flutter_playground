@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:profile_page/profile_screen.dart';
+import 'package:profile_page/JuiceApp/home_page.dart';
+import 'package:profile_page/ProfileScreenApp/profile_screen.dart';
 
 import 'list_screen.dart';
 
