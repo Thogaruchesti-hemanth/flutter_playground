@@ -11,17 +11,7 @@ This project serves as a learning resource for developers who want to dive deep 
 It is publicly available to help **Flutter beginners, enthusiasts, and developers** enhance their understanding of widgets step by step.
 
 ## 🏗 Widgets Explored So Far
-- ✅ ListTile
-- ✅ CircleAvatar
-- ✅ TextStyle
-- ✅ InputText
-- ✅ Date & Time Picker
-- ✅ GridView
-- ✅ Stack
-- ✅ ScrollView & CustomScrollView
-- ✅ Wrap
-- ✅ SizedBox
-- ✅ RichText
+- ✅ Container
 
 > The list is continuously growing as new widgets are explored! Stay tuned! 🚀
 
